@@ -33,6 +33,6 @@ Gena: <br>
 
 **References**
 <br>
-Big data in practice: How 45 successful companies used big data analytics to deliver extraordinary results by Bernard Marr (will fix the format later - daveigh)
+Big data in practice: How 45 successful companies used big data analytics to deliver extraordinary results by Bernard Marr page 7 (will fix the format later - daveigh)
 [put your references here if you used any]
 
