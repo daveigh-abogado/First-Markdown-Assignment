@@ -11,7 +11,7 @@ Daveigh: Data in large quantities can be analyzed to predict and target decision
 Jasmin: The reason why we need to study and analyze data is because it helps us make sense of the overwhelming heap of figures at hand and turn it into an essential factor in formulating critical decisions and substantial reports - that of which is pivotal for the advancement of various societal sectors. <br>
 Nathan: <br>
 Paolo: We need to study and analyze data because it allows us to determine the effect and impact of certain things and see how it progresses overtime. For example, on YouTube, I can see data from a video that I've uploaded, including how many people clicked on the video, how many stayed at the end, and of course how many people liked it. Moreover, as a very well-known feature of data on YouTube, you can see how many people who watch your videos are actually subscribed to you. These pieces of data are very helpful especially for YouTube content creators as it allows them to determine what kind of content is worth making and if it's interesting enough for their viewers. <br>
-Gena: <br>
+Gena: Data is informative. For instance, it reflects our preferences, our experiences every day, and the ways we deal with daily encounters. With this, we could use data to support research and studies that could help us better understand and improve our lifestyle. <br>
 
 <br>
 **Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.**
@@ -20,7 +20,7 @@ Daveigh: Supermarkets like Walmart monitor data across their stores in real-time
 Jasmin: Huge amounts of customer data is being utilized in online shopping applications and platforms to further understand the customers' shopping patterns and preferences and create a customized online shopping environment for them. <br>
 Nathan: <br>
 Paolo: When one goes on vacation, it may be wise to check the weather of the area you're heading to in order to determine if you need to pack warmer clothes or not. <br>
-Gena: <br>
+Gena: Netflix offers a variety of films and series to watch. In choosing what to watch next, one’s decision may be influenced by what the majority also prefers. <br>
 
 <br>
 **Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.**
@@ -29,7 +29,8 @@ Daveigh: <br>
 Jasmin: <br>
 Nathan: <br>
 Paolo: A data science topic that I'd like to explore would be the relationship between the rise and fall of cryptocurrency on the market price for Graphics Processing Units (GPUs) or graphics cards for computers. As cryptocurrency seems to be a hot and controversial topic lately, it wouldn't be very difficult to look at the trends of the rising and falling prices of cryptocurrency. Moreover, because graphics cards are used directly to "mine" or produce cryptocurrency, it wouldn't be so difficult to look at the prices of these during the period in which certain cryptocurrencies were at their peak or trough. I think it would certainly benefit people who have a hobby for building their own computers as it would allow them to determine the best times to buy high-end graphics cards for their custom PCs.<br>
-Gena: <br>
+Gena: Concerning the rise of e-commerce, tracking online shopping orders is appealing to me. Determining the places where orders are frequently shipped would help in tracking the "hotspots" of generated parcel packaging waste. In doing so, we could help The Plaf—an enterprise that collects plastic waste and up-cycles it into new sustainable products—establish new drop-off points that would encourage more online shoppers to donate their package waste. 
+<br>
 
 **References**
 <br>
