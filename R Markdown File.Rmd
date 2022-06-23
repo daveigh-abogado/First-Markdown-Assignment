@@ -1,0 +1,33 @@
+---
+title: "First Markdown Assignment"
+author: "Abogado, Blancia, Luna, Ong, Tusi"
+output: html_document
+---
+<br>
+<br>
+**Aside from the reasons mentioned in class, why do we need to study and analyze data?**
+<br>
+Daveigh: <br>
+Jasmin: <br>
+Nathan: <br>
+Paolo: <br>
+Gena: <br>
+
+<br>
+**Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.**
+<br>
+Daveigh: <br>
+Jasmin: <br>
+Nathan: <br>
+Paolo: <br>
+Gena: <br>
+
+<br>
+**Propose atleast one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.**
+<br>
+Daveigh: <br>
+Jasmin: <br>
+Nathan: <br>
+Paolo: <br>
+Gena: <br>
+
