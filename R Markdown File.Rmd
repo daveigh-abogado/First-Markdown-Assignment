@@ -8,7 +8,7 @@ output: html_document
 **Aside from the reasons mentioned in class, why do we need to study and analyze data?**
 <br>
 Daveigh: Data in large quantities can be analyzed to predict and target decisions made in businesses, healthcare, telecommunications, manufacturing, legislation, activism, and a plethora of other fields. Decisions like making changes to a product or how companies run can be made in response to the evidence and conclusions drawn from data drawn from consumer satisfaction surveys or employee retention rates. <br>
-Jasmin: <br>
+Jasmin: The reason why we need to study and analyze data is because it helps us make sense of the overwhelming heap of figures at hand and turn it into an essential factor in formulating critical decisions and substantial reports - that of which is pivotal for the advancement of various societal sectors. <br>
 Nathan: <br>
 Paolo: We need to study and analyze data because it allows us to determine the effect and impact of certain things and see how it progresses overtime. For example, on YouTube, I can see data from a video that I've uploaded, including how many people clicked on the video, how many stayed at the end, and of course how many people liked it. Moreover, as a very well-known feature of data on YouTube, you can see how many people who watch your videos are actually subscribed to you. These pieces of data are very helpful especially for YouTube content creators as it allows them to determine what kind of content is worth making and if it's interesting enough for their viewers. <br>
 Gena: <br>
@@ -17,7 +17,7 @@ Gena: <br>
 **Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.**
 <br>
 Daveigh: Supermarkets like Walmart monitor data across their stores in real-time. The company has a system that monitors performance data throughout their stores and an alert system that triggers when certain indicators lower to a certain level. One example of this system benefitting the company include a period when sales for a certain produce was declining. Because the data on the decline was analyzed immediately the pricing error which caused the decline was corrected right away. Sales for the produce recovered within the week. <br>
-Jasmin: <br>
+Jasmin: Huge amounts of customer data is being utilized in online shopping applications and platforms to further understand the customers' shopping patterns and preferences and create a customized online shopping environment for them. <br>
 Nathan: <br>
 Paolo: When one goes on vacation, it may be wise to check the weather of the area you're heading to in order to determine if you need to pack warmer clothes or not. <br>
 Gena: <br>
