@@ -9,7 +9,7 @@ output: html_document
 <br>
 Daveigh: <br>
 Jasmin: <br>
-Nathan: <br>
+Nathan: We need to study <br>
 Paolo: <br>
 Gena: <br>
 
