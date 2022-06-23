@@ -10,7 +10,7 @@ output: html_document
 Daveigh: <br>
 Jasmin: <br>
 Nathan: <br>
-Paolo: <br> We need to study and analyze data because it allows us to determine the effect and impact of certain things and see how it progresses overtime. For example, on YouTube, I can see data from a video that I've uploaded, including how many people clicked on the video, how many stayed at the end, and of course how many people liked it. Moreover, as a very well-known feature of data on YouTube, you can see how many people who watch your videos are actually subscribed to you. These pieces of data are very helpful especially for YouTube content creators as it allows them to determine what kind of content is worth making and if it's interesting enough for their viewers.
+Paolo: We need to study and analyze data because it allows us to determine the effect and impact of certain things and see how it progresses overtime. For example, on YouTube, I can see data from a video that I've uploaded, including how many people clicked on the video, how many stayed at the end, and of course how many people liked it. Moreover, as a very well-known feature of data on YouTube, you can see how many people who watch your videos are actually subscribed to you. These pieces of data are very helpful especially for YouTube content creators as it allows them to determine what kind of content is worth making and if it's interesting enough for their viewers. <br>
 Gena: <br>
 
 <br>
@@ -19,7 +19,7 @@ Gena: <br>
 Daveigh: <br>
 Jasmin: <br>
 Nathan: <br>
-Paolo: <br> When one goes on vacation, it may be wise to check the weather of the area you're heading to in order to determine if you need to pack warmer clothes or not.
+Paolo: When one goes on vacation, it may be wise to check the weather of the area you're heading to in order to determine if you need to pack warmer clothes or not. <br>
 Gena: <br>
 
 <br>
@@ -28,7 +28,7 @@ Gena: <br>
 Daveigh: <br>
 Jasmin: <br>
 Nathan: <br>
-Paolo: <br> A data science topic that I'd like to explore would be the relationship between the rise and fall of cryptocurrency on the market price for Graphics Processing Units (GPUs) or graphics cards for computers. As cryptocurrency seems to be a hot and controversial topic lately, it wouldn't be very difficult to look at the trends of the rising and falling prices of cryptocurrency. Moreover, because graphics cards are used directly to "mine" or produce cryptocurrency, it wouldn't be so difficult to look at the prices of these during the period in which certain cryptocurrencies were at their peak or trough. I think it would certainly benefit people who have a hobby for building their own computers as it would allow them to determine the best times to buy high-end graphics cards for their custom PCs.
+Paolo: A data science topic that I'd like to explore would be the relationship between the rise and fall of cryptocurrency on the market price for Graphics Processing Units (GPUs) or graphics cards for computers. As cryptocurrency seems to be a hot and controversial topic lately, it wouldn't be very difficult to look at the trends of the rising and falling prices of cryptocurrency. Moreover, because graphics cards are used directly to "mine" or produce cryptocurrency, it wouldn't be so difficult to look at the prices of these during the period in which certain cryptocurrencies were at their peak or trough. I think it would certainly benefit people who have a hobby for building their own computers as it would allow them to determine the best times to buy high-end graphics cards for their custom PCs.<br>
 Gena: <br>
 
 **References**
