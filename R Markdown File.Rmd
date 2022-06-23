@@ -16,14 +16,14 @@ Gena: <br>
 <br>
 **Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.**
 <br>
-Daveigh: Supermarkets like Walmart monitor data across their stores in real-time. The company has a system that monitors performance data throughout their stores and an alert system that triggers when certain indicators lower to a certain level. One example of this system benefitting the company include a period when sales for a certain produce was declining. Because the data on the decline was analyzed immediately the pricing error which caused the decline was corrected right away. Sales for the produce recovered within the week.
+Daveigh: Supermarkets like Walmart monitor data across their stores in real-time. The company has a system that monitors performance data throughout their stores and an alert system that triggers when certain indicators lower to a certain level. One example of this system benefitting the company include a period when sales for a certain produce was declining. Because the data on the decline was analyzed immediately the pricing error which caused the decline was corrected right away. Sales for the produce recovered within the week. <br>
 Jasmin: <br>
 Nathan: <br>
 Paolo: When one goes on vacation, it may be wise to check the weather of the area you're heading to in order to determine if you need to pack warmer clothes or not. <br>
 Gena: <br>
 
 <br>
-**Propose atleast one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.**
+**Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.**
 <br>
 Daveigh: <br>
 Jasmin: <br>
