@@ -1,4 +1,4 @@
-﻿h1.title{
+h1.title{
     font-family: Bahnschrift semicondensed;
     font-size: 45px;
     text-align: center;
@@ -9,14 +9,26 @@ h4.author {
     text-align: center;
 }
 h2 {
-    font-family: Georgia, serif;
+    font-family: Bahnschrift semicondensed;
     font-size: 28px;
+    line-height: 1.2;
+    text-align: center;
 }
 h3 {
-    font-family: Georgia, serif;
-    font-size: 20px;
+    font-family: Bahnschrift semicondensed;
+    font-size: 28px;
 }
 body {
-    font-family: Georgia, serif;
+    font-family: Helvetica, serif;
     padding: 10px 350px 10px 350px;
+    background-color: #282828;
+    color: #50a0c8;
+    text-align: justify;
+}
+div {
+    border-radius: 25px;
+    background: #50a0c8;
+    padding: 20px;
+    color: white;
+    line-height: 1.5;
 }

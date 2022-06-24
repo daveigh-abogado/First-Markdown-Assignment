@@ -9,6 +9,7 @@ output:
 ---
 <br>
 <br>
+<div>
 <h2>Aside from the reasons mentioned in class, why do we need to *study* and *analyze* data?</h2>
 <br>
 **Daveigh:** Data in large quantities can be analyzed to predict and target decisions made in businesses, healthcare, telecommunications, manufacturing, legislation, activism, and a plethora of other fields. Decisions like making changes to a product or how companies run can be made in response to the evidence and conclusions drawn from data drawn from consumer satisfaction surveys or employee retention rates. <br><br>
@@ -20,8 +21,9 @@ output:
 **Paolo:** We need to study and analyze data because it allows us to determine the effect and impact of certain things and see how it progresses overtime. For example, on YouTube, I can see data from a video that I've uploaded, including how many people clicked on the video, how many stayed at the end, and of course how many people liked it. Moreover, as a very well-known feature of data on YouTube, you can see how many people who watch your videos are actually subscribed to you. These pieces of data are very helpful especially for YouTube content creators as it allows them to determine what kind of content is worth making and if it's interesting enough for their viewers. <br><br>
 
 **Gena:** Data is informative. For instance, it reflects our preferences, our experiences every day, and the ways we deal with daily encounters. With this, we could use data to support research and studies that could help us better understand and improve our lifestyle. <br>
-
+</div>
 <br>
+<div>
 <h2>Cite at least one *instance* or *application* where *data science* was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.</h2>
 <br>
 **Daveigh:** Supermarkets like Walmart monitor data across their stores in real-time. The company has a system that monitors performance data throughout their stores and an alert system that triggers when certain indicators lower to a certain level. One example of this system benefitting the company include a period when sales for a certain produce was declining. Because the data on the decline was analyzed immediately the pricing error which caused the decline was corrected right away. Sales for the produce recovered within the week. <br><br>
@@ -33,8 +35,9 @@ output:
 **Paolo:** When one goes on vacation, it may be wise to check the weather of the area you're heading to in order to determine if you need to pack warmer clothes or not. <br><br>
 
 **Gena:** Netflix offers a variety of films and series to watch. In choosing what to watch next, one’s decision may be influenced by what the majority also prefers. <br>
-
+</div>
 <br>
+<div>
 <h2>Propose at least *one data science topic* that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.</h2>
 <br>
 **Daveigh:** A data science topic that I would want to pursue is using sentiment analysis to understand the depth of polarization occurring in the political landscape of the Philippines. The Philippines is among the top Facebook-using countries in the world where Filipinos also express political insights and sentiments towards national figures, organizations, and issues. These posts circulating Facebook can be mined to analyze people’s political sentiments and the posts they gravitate towards. In turn, this data can be used to make predictions on how echo chambers and polarization occurs within Facebook. A collection of unprocessed documents shall be transformed into a matrix of term frequency vs. inverse document frequency using the term frequency-inverse document frequency (TF-IDF) statistical method. This method shall be employed to give value to specific words in posts based on how frequently they are used. Filipinos who can often be exposed to political takes on this platform, whether false or not, can benefit from understanding the political landscape beyond their own tailored feeds.<br><br>
@@ -47,9 +50,20 @@ output:
 
 **Gena:** Concerning the rise of e-commerce, tracking online shopping orders is appealing to me. Determining the places where orders are frequently shipped would help in tracking the "hotspots" of generated parcel packaging waste. In doing so, we could help The Plaf—an enterprise that collects plastic waste and up-cycles it into new sustainable products—establish new drop-off points that would encourage more online shoppers to donate their package waste. 
 <br><br>
-
+</div>
+<br>
+<div>
 <h3>References</h3>
 <br>
 Big data in practice: How 45 successful companies used big data analytics to deliver extraordinary results by Bernard Marr page 7 (will fix the format later - daveigh)
-[put your references here if you used any]
+
+“Nvidia Limits Crypto-Mining on New Graphics Card.” BBC News, BBC, 18 Feb. 2021, https://www.bbc.com/news/technology-56114508. Accessed June 2022.
+
+The Plastic Flamingo. “Collection of Plastic Wastes.” The Plastic Flamingo, (n. d.), www.theplaf.com/collectplastics. Accessed June 2022.
+
+Tutort Academy. “Data Science in Gaming.” Medium, 7 Jan. 2022, https://medium.com/@-TutortAcademy/data-science-in-gaming-357c38c690cc. Accessed June 2022. 
+
+Waze. “Under the Hood: Real-Time ETA and How Waze Knows You’re on the Fastest Route.” Medium, 28 August 2020, https://medium.com/waze/under-the-hood-real-time-eta-and-how-waze-knows-youre-on-the-fastest-route-78d63c158b90. Accessed June 2022. 
+
+</div>
 
