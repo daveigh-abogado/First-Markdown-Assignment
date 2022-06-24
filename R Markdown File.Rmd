@@ -34,6 +34,10 @@ output:
 
 **Gena:** Netflix offers a variety of films and series to watch. In choosing what to watch next, one’s decision may be influenced by what the majority also prefers. <br>
 
+<hr class="solid">
+<img src="pic.png" class="center">
+<hr class="solid">
+
 <br>
 <h2>Propose at least *one data science topic* that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.</h2>
 <br>
@@ -49,7 +53,6 @@ output:
 <br><br>
 
 <h3>References</h3>
-<br>
 Big data in practice: How 45 successful companies used big data analytics to deliver extraordinary results by Bernard Marr page 7 (will fix the format later - daveigh)
 [put your references here if you used any]
 
