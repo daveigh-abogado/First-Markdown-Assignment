@@ -35,7 +35,15 @@ output:
 **Paolo:** When one goes on vacation, it may be wise to check the weather of the area you're heading to in order to determine if you need to pack warmer clothes or not. <br><br>
 
 **Gena:** Netflix offers a variety of films and series to watch. In choosing what to watch next, one’s decision may be influenced by what the majority also prefers. <br>
+<<<<<<< HEAD
 </div>
+
+
+<hr class="solid">
+<img src="pic.png" class="center">
+<hr class="solid">
+
+
 <br>
 <div>
 <h2>Propose at least *one data science topic* that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.</h2>
@@ -54,7 +62,6 @@ output:
 <br>
 <div>
 <h3>References</h3>
-<br>
 Big data in practice: How 45 successful companies used big data analytics to deliver extraordinary results by Bernard Marr page 7 (will fix the format later - daveigh)
 
 “Nvidia Limits Crypto-Mining on New Graphics Card.” BBC News, BBC, 18 Feb. 2021, https://www.bbc.com/news/technology-56114508. Accessed June 2022.
