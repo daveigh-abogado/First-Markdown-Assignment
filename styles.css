@@ -1,0 +1,22 @@
+﻿h1.title{
+    font-family: Bahnschrift semicondensed;
+    font-size: 45px;
+    text-align: center;
+}
+
+h4.author {
+    font-family: Bahnschrift;
+    text-align: center;
+}
+h2 {
+    font-family: Georgia, serif;
+    font-size: 28px;
+}
+h3 {
+    font-family: Georgia, serif;
+    font-size: 20px;
+}
+body {
+    font-family: Georgia, serif;
+    padding: 10px 350px 10px 350px;
+}
